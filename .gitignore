@@ -1,0 +1,3 @@
+#vamos a ignorar todos los archivos y carpetas especificados en este git ignore
+*.txt
+*.png
