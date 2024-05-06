@@ -1,1 +1,1 @@
-this is the archive que no se ignora
+this archivo lo modifiquépara ver la diferencia
